@@ -1,4 +1,4 @@
-# Music Streaming Platform 🎵
+# Music Streaming Analytics 🎵
 
 Stream, explore, and analyze music with a clean, interactive dashboard. Browse songs, view artist & album details, and get analytics on your music collection — all in one place.  
 
@@ -20,6 +20,7 @@ This dataset demonstrates skills in data generation, cleaning, and database inte
 - **Database Integration:** Data is loaded from PostgreSQL dynamically using pandas for live dashboard updates.  
 
 ## Demo
+Kaggle: [https://www.kaggle.com/code/gitanjalisoni/music-streaming-analytics]
 - **Run Locally:**  
 ```bash
 streamlit run dashboard.py
